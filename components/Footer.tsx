@@ -34,7 +34,7 @@ export function Footer() {
           </a>
           <span className="hidden h-1 w-1 rounded-full bg-slate-600 sm:inline" />
           <a
-            href="https://github.com/"
+            href="https://github.com/SimantoBiswas"
             target="_blank"
             rel="noreferrer"
             className="flex items-center gap-1.5 transition-colors hover:text-white"

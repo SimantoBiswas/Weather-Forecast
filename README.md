@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AuroraWeather — Premium Weather Dashboard
 
 A production-ready, Awwwards-inspired weather dashboard built with **Next.js 14 (App Router)**,
@@ -116,3 +117,7 @@ shapes of both the raw API responses and the app's domain models.
 - All interactive elements have descriptive `aria-label`s.
 - Images are avoided in favor of lightweight inline SVG icons for fast loading.
 - Data fetching runs in parallel (`Promise.all`) and auto-refreshes every 10 minutes.
+=======
+# Weather-Forecast
+Modern weather forecast web application with real-time weather updates
+>>>>>>> 2f4831fb16cc70525f8e4b17861c818c5a86fefb
